@@ -1,0 +1,17 @@
+body
+{
+    padding:20px;
+    margin:50px;
+    font-size: 40px;
+    font-family: 'Pangolin', cursive;
+    background-image: url(https://www.todopaisajes.com/1366x768/fondo-3d-del-espacio.jpg);
+    background-repeat: no-repeat;
+    color : rgb(14, 239, 255);
+}
+
+nav
+{
+    background-color: black;
+    padding: 0px;
+    color:#ba13c9;
+}
